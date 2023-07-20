@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elli</h1>
-<h3 align="center">Frontend developer</h3>
-
+- 👨‍💻 A javascript developer
 - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at **https://elli-ma.github.io/PORTFOLIO/**
-
 - 📫 How to reach me **elviraahmet9225@gmail.com**
 
 <p align="left">
