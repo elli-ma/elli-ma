@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at https://elli-ma.github.io/PORTFOLIO/
+- 👨‍💻 All of my projects are available at **https://elli-ma.github.io/PORTFOLIO/**
 
-- 📫 How to reach me elviraahmet9225@gmail.com
+- 📫 How to reach me **elviraahmet9225@gmail.com**
 
 <p align="left">
 </p>
