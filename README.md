@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **React**
   
-- 📫 **elviraahmet9225@gmail.com**
+- 📫 **ellidev9225@gmail.com**
 
 
 <p align="left">
