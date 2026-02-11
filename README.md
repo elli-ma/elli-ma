@@ -24,16 +24,6 @@ Figma-like canvas editor for building clothing patterns. Layers, dimensions, und
 ### [recipes](https://github.com/elli-ma/recipes) — Recipe App
 Next.js + TypeScript + shadcn/ui.
 
-### [scroll-animation](https://github.com/elli-ma/scroll-animation) — Scroll-Driven Frame Animation
-GSAP ScrollTrigger + Canvas. Mouse scroll controls playback of 24 frames.
-[Demo](https://elli-ma.github.io/scroll/)
-
-### [lichi-catalog](https://github.com/elli-ma/lichi-catalog) — Virtualized Product Catalog
-Infinite scroll with DOM virtualization. SWR Infinite + react-window + Lichi API.
-
-### [cone](https://github.com/elli-ma/cone) — 3D Cone Generator
-Three.js + React Three Fiber. Server-side geometry generation via API Route.
-
 ---
 
-[Portfolio](https://elli-ma.github.io/PORTFOLIO/)
+[Portfolio](https://elli-ma.github.io/portfolio/)
