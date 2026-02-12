@@ -12,18 +12,3 @@ Frontend developer. I build web apps with React / Next.js and experiment with 3D
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-## Projects
-
-### [kati-app](https://github.com/elli-ma/kati-app) — Permanent Makeup Website
-Next.js 15 + Turborepo + MediaPipe Face Mesh. Real-time AR brow try-on, Telegram bot, SEO.
-[kati-app-web.vercel.app](https://kati-app-web.vercel.app)
-
-### [figmacad](https://github.com/elli-ma/figmacad) — Clothing Pattern CAD Editor
-Figma-like canvas editor for building clothing patterns. Layers, dimensions, undo/redo, keyboard shortcuts.
-
-### [recipes](https://github.com/elli-ma/recipes) — Recipe App
-Next.js + TypeScript + shadcn/ui.
-
----
-
-[Portfolio](https://elli-ma.github.io/portfolio/)
